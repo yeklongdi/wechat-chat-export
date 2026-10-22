@@ -1,3 +1,3 @@
 interface:
   display_name: "微信聊天记录导出"
-  short_description: "在 Windows 本机导出文件传输助手聊天并展开转发，生成可供软件读取的文本"
+  short_description: "在 Windows 本机直接导出指定群聊和好友的聊天记录，支持时间筛选和全部历史"
